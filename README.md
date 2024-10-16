@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 14.10.2024
 
 ## AIM:
 
@@ -53,10 +53,10 @@
 
 
 ## Output:
+### Name: LOGA MITHRA R
+### Register Number: 212223100027
 
-
-### Name:
-### Register Number: 
+![image](https://github.com/user-attachments/assets/20841d96-9d10-4e01-a262-09c266758b4e)
 
 ## RESULT:
- ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
